@@ -1,0 +1,14 @@
+.payment {
+  ul {
+    display: flex;
+    list-style: none;
+    
+    li {
+      margin: 5px;
+      
+      img {
+        width: 250px;
+      }
+    }
+  }
+}
